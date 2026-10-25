@@ -2,9 +2,9 @@
 
 This repository contains solutions for a Y Combinator startup training program. The projects reproduce and extend parts of **Shiptivity**, a productivity and shipping-request application.
 
-<img src="images/ycombinator-logo.webp" alt="Y Combinator logo" width="180" align="right">
-
 ## About Y Combinator
+
+<img src="images/ycombinator-logo.webp" alt="Y Combinator logo" width="150" align="right">
 
 Y Combinator (YC) is a startup accelerator founded in 2005. It supports early-stage companies through funding, product guidance, founder advice, and access to a large startup network. YC has backed companies such as Airbnb, Stripe, Dropbox, DoorDash, and Coinbase.
 
