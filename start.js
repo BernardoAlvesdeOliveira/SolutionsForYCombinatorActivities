@@ -30,6 +30,7 @@ const processes = [
 
 let shuttingDown = false;
 
+
 const children = processes.map(({ name, cwd, env, args }) => {
   const child = spawn(npmCommand, args, {
     cwd,
